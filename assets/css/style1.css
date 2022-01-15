@@ -1,0 +1,48 @@
+/* body{
+    background-color: rgb(51, 2, 2);
+} */
+
+
+.h-80{
+    height: 500px;
+}
+
+.h-70{
+    height: 400px;
+}
+
+.bg-org{
+    background-color: #e08738;
+}
+
+.border-orange{
+    border: #e08738 1px solid;
+}
+
+.bg-orange{
+    background-color: #e08738;
+}
+
+.bg-purp{
+    background-color: rgb(72, 16, 121);
+}
+
+.bg-gre{
+    background-color: rgb(137, 189, 130);
+}
+
+.text-purp{
+    color: rgb(72, 16, 121);
+}
+
+.text-org{
+    color: #e08738;
+}
+
+.bg-img{
+    background-image: url("../img/png-transparent-computer-icons-login-button-miscellaneous-orange-computer.png");
+    background-size: cover ;
+    background-position: 50% 0;
+    width: 110px;
+    height: 110px;
+}
